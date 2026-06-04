@@ -2,4 +2,4 @@ Writing code without using AI is something which is making me forget writing the
 
 LangGraph (State, tool call, memory), LangChain(Prompt Templates, CHATOPENAI), MongoDB,
 
-JEEVA AI Like Structure of the code base
+AI workflow Like Structure of the code base
