@@ -7,4 +7,6 @@ git remote add origin https://github.com/vichara-dushyant/multi-agent-engine.git
 git pull origin main --allow-unrelated-histories
 git add .
 git commit -m "Initial multi-agent framework"
-git push -u origin main (-u means "--set-upstream".)
+git push -u origin main (-u means "--set-upstream". only at the first time->next time 
+
+git push origin main or git pull or git push)
